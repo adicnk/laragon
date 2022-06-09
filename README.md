@@ -5,6 +5,9 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
 
+## Downloading Laragon and documentation
+Aplikasi ini bisa didapatkan di [Laragon Apps](https://laragon.org/download/) dan dokumentasinya di [Laragon Docs](https://laragon.org/docs/)
+
 ## Using to switch version on Apache, PHP and MySQL
 
 Untuk menjalankan versi lain dari **Apache, PHP dan MySQL** dalam satu OS ketika kita membutuhkan suatu program server yang berbasiskan web. Misalnya lokal servernya dijalankan dengan dua buah aplikasi **XAMPP** dan **Laragon** maka hanya ada satu yang boleh berjalan dalam satu waktu tidak boleh keduanya untuk menghindari crash antara aplikasi yang satu dgn lainnya.
