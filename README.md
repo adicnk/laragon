@@ -1,3 +1,5 @@
 # Guide for the Laragon Apps
 
-[![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)]()
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)()
+
+## Using to switch version on Apache, PHP and MySQL
